@@ -1,0 +1,26 @@
+# -------- PROCESS MANAGEMENT --------
+
+ps
+top
+kill 1234
+sleep 10 &
+fg
+
+
+# -------- USER MANAGEMENT --------
+
+whoami
+who
+useradd user1
+passwd user1
+su user1
+
+
+# -------- NETWORKING --------
+
+ping google.com
+hostname -I
+ifconfig
+netstat
+traceroute google.com
+
